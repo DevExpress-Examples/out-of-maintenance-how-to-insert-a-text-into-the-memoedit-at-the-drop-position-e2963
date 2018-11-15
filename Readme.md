@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MemoEditDragDropInsertText/Form1.cs) (VB: [Form1.vb](./VB/MemoEditDragDropInsertText/Form1.vb))
+<!-- default file list end -->
 # How to insert a text into the MemoEdit at the drop position
 
 
